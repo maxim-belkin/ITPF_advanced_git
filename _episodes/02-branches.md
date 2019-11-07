@@ -421,9 +421,10 @@ where Git will move `HEAD`.
 >
 > Use `checkout -b` syntax to start a new branch at the commit `d1fbc13` ("Adding 'Staff' section").
 > Change a file and commit it to the branch.
-> Try deleting a branch with `git branch -D`.
+> Try deleting a branch with `git branch -d` then `git branch -D`.
 >
 > > ## Solution
+> >
 > > ~~~
 > > git checkout -b my-branch d1fbc13
 > > cat >> README.md <<EOS
@@ -436,7 +437,7 @@ where Git will move `HEAD`.
 > > git branch -D my-branch
 > > ~~~
 > > {: .language-bash}
-> {: .solutions}
+> {: .solution}
 {: .challenge}
 
 

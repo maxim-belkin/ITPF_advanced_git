@@ -1,15 +1,17 @@
 ---
-title: "Introduction to Git branches"
+title: "A deeper look on Git commits"
 teaching: 30
 exercises: 20
 questions:
-- "How Git manages history of changes to a project?"
-- "What is a branch and why do we need them?"
+- "What information does Git store in its commits?"
+- "What is 'a parent of a commit'?"
+- "How to inspect different objects in Git repository?"
+- "What is a branch in Git?"
 - "How can we create a new branch and use it?"
 objectives:
 - "Understand how Git organizes commits."
+- "Understand what information Git commits have."
 - "Understand the purpose of branches."
-- "Understand the true purpose of HEAD."
 - "Understand the difference between Git repository, workding directory, and staging area."
 keypoints:
 - "Git commits are 'connected' to one another."
@@ -333,7 +335,7 @@ Schematically, this is what happens when we add a new commit to a branch:
 
 ![Adding a commit to a branch](../fig/svgs/git_history_4.svg)
 
-Now we know part of the story about what happens inside the Git repository when we add a
+Now we know a part of the story about what happens inside the Git repository when we add a
 new commit.
 
 > ## Extracurricular activity: Advanced log

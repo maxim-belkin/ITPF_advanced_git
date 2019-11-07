@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1200 143.2"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:1.8203;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:1.8203;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st2{font-family:'Ubuntu-Bold';}
+	.st3{font-size:15.5575px;}
+	.st4{fill:none;stroke:#000000;stroke-width:1.194;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;}
+	.st6{font-size:20.7433px;}
+</style>
+<g>
+	<path class="st0" d="M207.4,59.3"/>
+	<g>
+		<path d="M270.1,41.8v99.6h-79.6V58.6l15.7-16.7L270.1,41.8 M271.9,40h-66.5l-16.7,17.8v85.4h83.2V40L271.9,40z"/>
+		<polygon class="st1" points="202.2,56.8 205.8,40.9 189.6,58.2 		"/>
+	</g>
+	<line class="st1" x1="205.4" y1="63.8" x2="255.1" y2="63.8"/>
+	<line class="st1" x1="205.4" y1="78.1" x2="242.1" y2="78.1"/>
+</g>
+<text transform="matrix(1 0 0 1 200.4104 13.1694)" class="st2 st3">Original</text>
+<text transform="matrix(1 0 0 1 201.5104 31.8694)" class="st2 st3">Version</text>
+<g>
+	<g>
+		<path d="M454.9,41.8v99.6h-79.5V58.6l15.7-16.7L454.9,41.8 M456.7,40h-66.5l-16.7,17.8v85.4h83.2V40L456.7,40z"/>
+		<polygon class="st1" points="387,56.8 390.7,40.9 374.5,58.2 		"/>
+	</g>
+	<line class="st1" x1="390.3" y1="63.8" x2="440" y2="63.8"/>
+	<line class="st1" x1="390.3" y1="78.1" x2="440" y2="78.1"/>
+	<line class="st1" x1="390.3" y1="92.4" x2="427.2" y2="92.3"/>
+</g>
+<text transform="matrix(1 0 0 1 380.8412 17.8369)" class="st2 st3">Version 1</text>
+<g>
+	<g>
+		<path d="M824.6,41.8v99.6h-79.5V58.6l15.6-16.8H824.6 M826.4,40h-66.5l-16.7,17.8v85.4h83.2V40L826.4,40z"/>
+		<polygon class="st1" points="756.7,56.8 760.4,40.9 744.2,58.2 		"/>
+	</g>
+	<line class="st1" x1="760" y1="63.8" x2="809.7" y2="63.8"/>
+	<line class="st1" x1="760" y1="78.1" x2="809.7" y2="78.1"/>
+	<line class="st1" x1="760" y1="92.3" x2="809.7" y2="92.3"/>
+	<line class="st1" x1="760" y1="106.6" x2="796.8" y2="106.6"/>
+</g>
+<text transform="matrix(1 0 0 1 750.3892 17.8369)" class="st2 st3">Version 3</text>
+<g>
+	<g>
+		<path d="M1009.5,41.8v99.6H930V58.6l15.7-16.7L1009.5,41.8 M1011.3,40h-66.5l-16.7,17.8v85.4h83.2V40L1011.3,40z"/>
+		<polygon class="st1" points="941.6,56.8 945.2,40.9 929,58.2 		"/>
+	</g>
+	<line class="st1" x1="944.9" y1="63.8" x2="994.6" y2="63.8"/>
+	<line class="st1" x1="944.9" y1="78.1" x2="994.6" y2="78.1"/>
+	<line class="st1" x1="944.9" y1="92.3" x2="994.6" y2="92.3"/>
+	<line class="st1" x1="944.9" y1="106.6" x2="994.6" y2="106.6"/>
+	<line class="st1" x1="944.9" y1="120.8" x2="981.6" y2="120.8"/>
+</g>
+<text transform="matrix(1 0 0 1 935.0838 17.8369)" class="st2 st3">Version 4</text>
+<g>
+	<g>
+		<line class="st4" x1="273.7" y1="91.9" x2="364.6" y2="91.9"/>
+		<g>
+			<polygon points="361.2,96.4 363.1,91.9 361.2,87.5 371.7,91.9 			"/>
+		</g>
+	</g>
+	<g>
+		<rect x="298.7" y="70.8" class="st5" width="50" height="42.4"/>
+		<text transform="matrix(1 0 0 1 302.6943 98.4307)" class="st2 st6">Edit</text>
+	</g>
+</g>
+<g>
+	<path class="st0" d="M577.1,59.3"/>
+	<g>
+		<path d="M639.8,41.8v99.6h-79.5V58.6L576,41.9L639.8,41.8 M641.6,40h-66.5l-16.7,17.8v85.4h83.2V40L641.6,40z"/>
+		<polygon class="st1" points="571.9,56.8 575.5,40.9 559.3,58.2 		"/>
+	</g>
+	<line class="st1" x1="575.2" y1="60.8" x2="624.8" y2="60.8"/>
+	<line class="st1" x1="575.2" y1="78.1" x2="624.8" y2="78.1"/>
+	<line class="st1" x1="575.2" y1="92.4" x2="625.2" y2="92.1"/>
+</g>
+<text transform="matrix(1 0 0 1 565.694 17.8369)" class="st2 st3">Version 2</text>
+<g>
+	<g>
+		<line class="st4" x1="458.6" y1="91.9" x2="549.4" y2="91.9"/>
+		<g>
+			<polygon points="546.1,96.4 548,91.9 546.1,87.5 556.6,91.9 			"/>
+		</g>
+	</g>
+	<g>
+		<rect x="483.6" y="70.8" class="st5" width="50" height="42.4"/>
+		<text transform="matrix(1 0 0 1 487.5471 98.4307)" class="st2 st6">Edit</text>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="643.4" y1="91.9" x2="734.3" y2="91.9"/>
+		<g>
+			<polygon points="730.9,96.4 732.8,91.9 730.9,87.5 741.4,91.9 			"/>
+		</g>
+	</g>
+	<g>
+		<rect x="668.4" y="70.8" class="st5" width="50" height="42.4"/>
+		<text transform="matrix(1 0 0 1 672.4 98.4307)" class="st2 st6">Edit</text>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="828.3" y1="91.9" x2="919.2" y2="91.9"/>
+		<g>
+			<polygon points="915.8,96.4 917.7,91.9 915.8,87.5 926.3,91.9 			"/>
+		</g>
+	</g>
+	<g>
+		<rect x="853.3" y="70.8" class="st5" width="50" height="42.4"/>
+		<text transform="matrix(1 0 0 1 857.253 98.4307)" class="st2 st6">Edit</text>
+	</g>
+</g>
+</svg>

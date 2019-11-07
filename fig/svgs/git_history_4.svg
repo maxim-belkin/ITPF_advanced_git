@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1200 295.5"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E6E6E6;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st2{font-family:'Ubuntu-MediumItalic';}
+	.st3{font-size:24px;}
+	.st4{font-size:36px;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#CA0000;}
+	.st7{fill:#0071BC;}
+	.st8{fill:#F15A24;}
+	.st9{fill:#FF00FF;}
+	.st10{font-family:'Ubuntu-Medium';}
+	.st11{font-size:72px;}
+	.st12{fill:none;stroke:#FF0000;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#FF0000;stroke-width:2;stroke-miterlimit:10;}
+	.st14{fill:#FF0000;}
+	.st15{fill:none;stroke:#0071BC;stroke-width:2;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#F15A24;stroke-width:2;stroke-miterlimit:10;}
+	.st17{fill:none;stroke:#FF00FF;stroke-width:2;stroke-miterlimit:10;}
+	.st18{fill:#FF5C64;}
+	.st19{fill:none;stroke:#FF5C64;stroke-width:2;stroke-miterlimit:10;}
+	.st20{opacity:0.3;}
+	.st21{fill:none;stroke:#000000;stroke-width:1.317;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M1024.4,295H115.9c-39.5,0-71.5-32-71.5-71.5l0,0c0-39.5,32-71.5,71.5-71.5h908.5c39.5,0,71.5,32,71.5,71.5l0,0
+	C1095.9,263,1063.9,295,1024.4,295z"/>
+<g>
+	<line class="st1" x1="1026" y1="157.6" x2="1026.2" y2="96.7"/>
+	<g>
+		<polygon points="1025.9,171.7 1034.1,151.8 1026,156.5 1017.9,151.8 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 884.3417 143.1595)" class="st2 st3">Git branch</text>
+<text transform="matrix(1 0 0 1 968.4666 78.5472)" class="st2 st4">master</text>
+<g>
+	<g>
+		<circle class="st5" cx="115.3" cy="221" r="47"/>
+		<path d="M115.3,175c25.4,0,46,20.6,46,46s-20.6,46-46,46s-46-20.6-46-46S89.9,175,115.3,175 M115.3,173c-26.5,0-48,21.5-48,48
+			s21.5,48,48,48s48-21.5,48-48S141.8,173,115.3,173L115.3,173z"/>
+	</g>
+	<circle class="st6" cx="296.6" cy="221" r="48"/>
+	<circle class="st7" cx="479.6" cy="221" r="48"/>
+	<circle class="st8" cx="661.7" cy="221" r="48"/>
+	<circle class="st9" cx="843.7" cy="221" r="48"/>
+	<text transform="matrix(1 0 0 1 94.7934 243.9844)" class="st10 st11">0</text>
+	<text transform="matrix(1 0 0 1 276.1635 244.0077)" class="st5 st10 st11">1</text>
+	<text transform="matrix(1 0 0 1 276.1635 244.0077)" class="st12 st10 st11">1</text>
+	<text transform="matrix(1 0 0 1 461.1891 244.0077)" class="st5 st10 st11">2</text>
+	<text transform="matrix(1 0 0 1 642.1891 244.0077)" class="st5 st10 st11">3</text>
+	<text transform="matrix(1 0 0 1 821.1892 244.0076)" class="st5 st10 st11">4</text>
+	<g>
+		<line class="st13" x1="177.5" y1="221" x2="248.4" y2="221"/>
+		<g>
+			<polygon class="st14" points="163.4,221 183.3,229.1 178.6,221 183.3,212.9 			"/>
+		</g>
+	</g>
+	<g>
+		<line class="st15" x1="360.5" y1="221" x2="431.4" y2="221"/>
+		<g>
+			<polygon class="st7" points="346.4,221 366.3,229.1 361.6,221 366.3,212.9 			"/>
+		</g>
+	</g>
+	<g>
+		<line class="st16" x1="542.5" y1="221" x2="613.4" y2="221"/>
+		<g>
+			<polygon class="st8" points="528.4,221 548.3,229.1 543.6,221 548.3,212.9 			"/>
+		</g>
+	</g>
+	<g>
+		<line class="st17" x1="724.5" y1="221" x2="795.4" y2="221"/>
+		<g>
+			<polygon class="st9" points="710.4,221 730.3,229.1 725.6,221 730.3,212.9 			"/>
+		</g>
+	</g>
+	<circle class="st18" cx="1025" cy="221" r="48"/>
+	<text transform="matrix(1 0 0 1 1004.5405 244.0076)" class="st5 st10 st11">5</text>
+	<g>
+		<line class="st19" x1="905.8" y1="221" x2="976.7" y2="221"/>
+		<g>
+			<polygon class="st18" points="891.7,221 911.6,229.1 906.9,221 911.6,212.9 			"/>
+		</g>
+	</g>
+</g>
+<g class="st20">
+	<line class="st1" x1="845.9" y1="157.6" x2="846.1" y2="96.7"/>
+	<g>
+		<polygon points="845.8,171.7 854,151.8 845.9,156.5 837.8,151.8 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 788.3958 78.5472)" class="st20 st2 st4">master</text>
+<text transform="matrix(1 0 0 1 884.342 21.9839)" class="st2 st3">git commit </text>
+<g>
+	<path class="st21" d="M846.1,48.9l9.7-3.8c53.7-20.8,109.5-20.5,163.1,0.7"/>
+	<g>
+		<polygon points="1013.6,49.1 1017.4,45.3 1017.3,40 1026.2,48.9 		"/>
+	</g>
+</g>
+</svg>

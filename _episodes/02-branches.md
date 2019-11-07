@@ -3,11 +3,16 @@ title: "Git branches"
 teaching: 20
 exercises: 20
 questions:
-- "FIXME"
+- "How do I create a new branch?"
+- "How do I commit to a new branch?"
+- "How do I merge two branches together?"
 objectives:
-- "FIXME"
+- "Learn how to create, update, and merge branches."
 keypoints:
-- "FIXME"
+- "`git branch` creates a new branch"
+- "`git checkout <branchname>` switches to a branch called `<branchname>`"
+- "`git merge <branchname>` merges branches called `<branchname>` into the currently checked out
+    branch"
 ---
 
 Let's go back to our main story line.

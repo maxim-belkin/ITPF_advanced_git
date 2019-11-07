@@ -1,6 +1,6 @@
 ---
 title: "A deeper look on Git commits"
-teaching: 30
+teaching: 20
 exercises: 20
 questions:
 - "What information does Git store in its commits?"
@@ -251,8 +251,8 @@ And this is why `git log` lists commits in reverse chronological order.
 
 Clearly, the last commit is an important one.
 Not only it determines the state of the working directory (what we see when we execute `ls` in a
-Unix terminal or `dir` in Windows' Command Prompt)), it is also used as a starting point for many
-Git commands.
+Unix terminal or `dir` in the Command Prompt on Windows), it is also used as a starting point for
+many Git commands.
 It is, therefore, crucial for Git to quickly find this commit.
 
 And for this purpose Git uses a simple text file with a _hash_ of that last commit.
@@ -335,8 +335,14 @@ Schematically, this is what happens when we add a new commit to a branch:
 
 ![Adding a commit to a branch](../fig/svgs/git_history_4.svg)
 
-Now we know a part of the story about what happens inside the Git repository when we add a
-new commit.
+To sum up, here is what happens inside of a Git repository when we add a new commit.
+
+- Git creates a new commit that references the last commit in the branch as its parent
+- Git writes hash of that new commit to the file in `.git/refs/heads/` that corresponds to our
+  branch (the default branch in Git is `master` and this file, therefore, is called
+  `.git/refs/heads/master`)
+
+Next, we'll talk about the other half of the story -- using branches.
 
 > ## Extracurricular activity: Advanced log
 >
@@ -367,7 +373,6 @@ new commit.
 > > `git help revisions`.
 > {: .solution}
 {: .challenge}
-
 
 {% include links.md %}
 

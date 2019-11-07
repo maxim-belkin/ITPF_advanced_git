@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1300 386.5"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E6E6E6;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st2{font-family:'Ubuntu-MediumItalic';}
+	.st3{font-size:24px;}
+	.st4{font-size:36px;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#CA0000;}
+	.st7{fill:#0071BC;}
+	.st8{fill:#F15A24;}
+	.st9{fill:#FF00FF;}
+	.st10{font-family:'Ubuntu-Medium';}
+	.st11{font-size:72px;}
+	.st12{fill:none;stroke:#FF0000;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#FF0000;stroke-width:2;stroke-miterlimit:10;}
+	.st14{fill:#FF0000;}
+	.st15{fill:none;stroke:#0071BC;stroke-width:2;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#F15A24;stroke-width:2;stroke-miterlimit:10;}
+	.st17{fill:none;stroke:#FF00FF;stroke-width:2;stroke-miterlimit:10;}
+	.st18{fill:#FF5C64;}
+	.st19{fill:none;stroke:#FF5C64;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M1058.4,275.5H149.9c-39.5,0-71.5-32-71.5-71.5l0,0c0-39.5,32-71.5,71.5-71.5h908.5c39.5,0,71.5,32,71.5,71.5
+	l0,0C1129.9,243.5,1097.9,275.5,1058.4,275.5z"/>
+<g>
+	<line class="st1" x1="1060" y1="138.1" x2="1060.2" y2="77.2"/>
+	<g>
+		<polygon points="1059.9,152.2 1068.1,132.3 1060,137 1051.9,132.3 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 918.3384 123.6976)" class="st2 st3">Git branch</text>
+<text transform="matrix(1 0 0 1 1002.4633 59.0853)" class="st2 st4">master</text>
+<g>
+	<g>
+		<circle class="st5" cx="149.3" cy="201.5" r="47"/>
+		<path d="M149.3,155.5c25.4,0,46,20.6,46,46s-20.6,46-46,46s-46-20.6-46-46S123.9,155.5,149.3,155.5 M149.3,153.5
+			c-26.5,0-48,21.5-48,48s21.5,48,48,48s48-21.5,48-48S175.8,153.5,149.3,153.5L149.3,153.5z"/>
+	</g>
+	<circle class="st6" cx="330.6" cy="201.5" r="48"/>
+	<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 232.392 676.2202)" class="st7" cx="513.6" cy="201.5" rx="48" ry="48"/>
+	<circle class="st8" cx="695.7" cy="201.5" r="48"/>
+	<circle class="st9" cx="877.7" cy="201.5" r="48"/>
+	<text transform="matrix(1 0 0 1 128.7902 224.5225)" class="st10 st11">0</text>
+	<text transform="matrix(1 0 0 1 310.1603 224.5458)" class="st5 st10 st11">1</text>
+	<text transform="matrix(1 0 0 1 310.1603 224.5458)" class="st12 st10 st11">1</text>
+	<text transform="matrix(1 0 0 1 495.1859 224.5458)" class="st5 st10 st11">2</text>
+	<text transform="matrix(1 0 0 1 676.1859 224.5458)" class="st5 st10 st11">3</text>
+	<text transform="matrix(1 0 0 1 855.186 224.5457)" class="st5 st10 st11">4</text>
+	<g>
+		<line class="st13" x1="211.5" y1="201.5" x2="282.4" y2="201.5"/>
+		<g>
+			<polygon class="st14" points="197.4,201.5 217.3,209.6 212.6,201.5 217.3,193.4 			"/>
+		</g>
+	</g>
+	<g>
+		<line class="st15" x1="394.5" y1="201.5" x2="465.4" y2="201.5"/>
+		<g>
+			<polygon class="st7" points="380.4,201.5 400.3,209.6 395.6,201.5 400.3,193.4 			"/>
+		</g>
+	</g>
+	<g>
+		<line class="st16" x1="576.5" y1="201.5" x2="647.4" y2="201.5"/>
+		<g>
+			<polygon class="st8" points="562.4,201.5 582.3,209.6 577.6,201.5 582.3,193.4 			"/>
+		</g>
+	</g>
+	<g>
+		<line class="st17" x1="758.5" y1="201.5" x2="829.4" y2="201.5"/>
+		<g>
+			<polygon class="st9" points="744.4,201.5 764.3,209.6 759.6,201.5 764.3,193.4 			"/>
+		</g>
+	</g>
+	<circle class="st18" cx="1059" cy="201.5" r="48"/>
+	<text transform="matrix(1 0 0 1 1038.5374 224.5457)" class="st5 st10 st11">5</text>
+	<g>
+		<line class="st19" x1="939.8" y1="201.5" x2="1010.7" y2="201.5"/>
+		<g>
+			<polygon class="st18" points="925.7,201.5 945.6,209.6 940.9,201.5 945.6,193.4 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<line class="st1" x1="1060" y1="264" x2="1059.8" y2="324.9"/>
+	<g>
+		<polygon points="1060.1,249.9 1051.9,269.8 1060,265.1 1068.1,269.8 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 925.697 353.2473)" class="st2 st4">inventory_control</text>
+<text transform="matrix(1 0 0 1 1058.9973 381.5367)" class="st2 st3">(new branch)</text>
+<text transform="matrix(1 0 0 1 1051.8972 20.3163)" class="st2 st3">(“main” branch)</text>
+</svg>

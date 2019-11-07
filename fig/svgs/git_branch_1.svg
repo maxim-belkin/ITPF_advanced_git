@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1400 584.6"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E6E6E6;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st2{font-family:'Ubuntu-MediumItalic';}
+	.st3{font-size:24px;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:#CA0000;}
+	.st6{fill:#0071BC;}
+	.st7{fill:#F15A24;}
+	.st8{fill:#FF00FF;}
+	.st9{font-family:'Ubuntu-Medium';}
+	.st10{font-size:72px;}
+	.st11{fill:none;stroke:#FF0000;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#FF0000;stroke-width:2;stroke-miterlimit:10;}
+	.st13{fill:#FF0000;}
+	.st14{fill:none;stroke:#0071BC;stroke-width:2;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#F15A24;stroke-width:2;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#FF00FF;stroke-width:2;stroke-miterlimit:10;}
+	.st17{fill:#FF5C64;}
+	.st18{fill:none;stroke:#FF5C64;stroke-width:2;stroke-miterlimit:10;}
+	.st19{opacity:0.5;}
+	.st20{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st21{font-family:'Ubuntu-BoldItalic';}
+</style>
+<path class="st0" d="M1086.1,371.3H177.6c-39.5,0-71.5-32-71.5-71.5l0,0c0-39.5,32-71.5,71.5-71.5h908.5c39.5,0,71.5,32,71.5,71.5
+	l0,0C1157.6,339.3,1125.6,371.3,1086.1,371.3z"/>
+<g>
+	<line class="st1" x1="1091.8" y1="233.9" x2="1092" y2="173"/>
+	<g>
+		<polygon points="1091.7,248 1099.9,228.1 1091.8,232.8 1083.7,228.1 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 946.0416 219.5081)" class="st2 st3">Git branch</text>
+<text transform="matrix(1 0 0 1 1052.7076 154.8958)" class="st2 st3">master</text>
+<g>
+	<g>
+		<circle class="st4" cx="177" cy="297.3" r="47"/>
+		<path d="M177,251.3c25.4,0,46,20.6,46,46s-20.6,46-46,46s-46-20.6-46-46S151.6,251.3,177,251.3 M177,249.3c-26.5,0-48,21.5-48,48
+			s21.5,48,48,48s48-21.5,48-48S203.5,249.3,177,249.3L177,249.3z"/>
+	</g>
+	<circle class="st5" cx="358.3" cy="297.3" r="48"/>
+	<ellipse class="st6" cx="541.3" cy="297.3" rx="48" ry="48"/>
+	<circle class="st7" cx="723.4" cy="297.3" r="48"/>
+	<circle class="st8" cx="905.4" cy="297.3" r="48"/>
+	<text transform="matrix(1 0 0 1 156.4934 320.333)" class="st9 st10">0</text>
+	<text transform="matrix(1 0 0 1 337.8635 320.3563)" class="st4 st9 st10">1</text>
+	<text transform="matrix(1 0 0 1 337.8635 320.3563)" class="st11 st9 st10">1</text>
+	<text transform="matrix(1 0 0 1 522.889 320.3563)" class="st4 st9 st10">2</text>
+	<text transform="matrix(1 0 0 1 703.8891 320.3563)" class="st4 st9 st10">3</text>
+	<text transform="matrix(1 0 0 1 882.8892 320.3562)" class="st4 st9 st10">4</text>
+	<g>
+		<line class="st12" x1="239.2" y1="297.3" x2="310.1" y2="297.3"/>
+		<g>
+			<polygon class="st13" points="225.1,297.3 245,305.4 240.3,297.3 245,289.2 			"/>
+		</g>
+	</g>
+	<g>
+		<line class="st14" x1="422.2" y1="297.3" x2="493.1" y2="297.3"/>
+		<g>
+			<polygon class="st6" points="408.1,297.3 428,305.4 423.3,297.3 428,289.2 			"/>
+		</g>
+	</g>
+	<g>
+		<line class="st15" x1="604.2" y1="297.3" x2="675.1" y2="297.3"/>
+		<g>
+			<polygon class="st7" points="590.1,297.3 610,305.4 605.3,297.3 610,289.2 			"/>
+		</g>
+	</g>
+	<g>
+		<line class="st16" x1="786.2" y1="297.3" x2="857.1" y2="297.3"/>
+		<g>
+			<polygon class="st8" points="772.1,297.3 792,305.4 787.3,297.3 792,289.2 			"/>
+		</g>
+	</g>
+	<circle class="st17" cx="1086.7" cy="297.3" r="48"/>
+	<text transform="matrix(1 0 0 1 1066.2405 320.3562)" class="st4 st9 st10">5</text>
+	<g>
+		<line class="st18" x1="967.5" y1="297.3" x2="1038.4" y2="297.3"/>
+		<g>
+			<polygon class="st17" points="953.4,297.3 973.3,305.4 968.6,297.3 973.3,289.2 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<line class="st1" x1="1091.8" y1="359.8" x2="1091.6" y2="420.7"/>
+	<g>
+		<polygon points="1091.9,345.7 1083.7,365.6 1091.8,360.9 1099.9,365.6 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 994.7369 449.0579)" class="st2 st3">inventory_control</text>
+<g class="st19">
+	<line class="st1" x1="1091.8" y1="109.5" x2="1092" y2="48.6"/>
+	<g>
+		<polygon points="1091.7,123.6 1099.9,103.7 1091.8,108.4 1083.7,103.7 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 1059.6436 30.4739)" class="st19 st2 st3">HEAD</text>
+<g>
+	<line class="st1" x1="1091.8" y1="478" x2="1091.6" y2="538.9"/>
+	<g>
+		<polygon points="1091.9,463.9 1083.7,483.8 1091.8,479.1 1099.9,483.8 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 1059.6437 568.1709)" class="st2 st3">HEAD</text>
+<g>
+	<path class="st20" d="M1156.4,40.4l1.8,2.1c123.7,144.1,122,357.1-3.3,499.2"/>
+	<g>
+		<polygon points="1153.9,537 1155.7,540.6 1159.5,541.9 1151,546.1 		"/>
+	</g>
+</g>
+<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 1281.5181 463.8779)"><tspan x="0" y="0" class="st2 st3">git </tspan><tspan x="35.5" y="0" class="st21 st3">checkout </tspan><tspan x="141.7" y="0" class="st2 st3">inventory_control</tspan></text>
+</svg>

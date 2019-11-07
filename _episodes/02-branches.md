@@ -389,6 +389,57 @@ git log --min-parents=2 --oneline # list 'merges'
 > {: .solution}
 {: .challenge}
 
+
+## Deleting a branch
+
+Once a branch has been merged into the main branch (usually `master`), we can safely delete it.
+Let's delete the `inventory_control` branch:
+
+~~~
+git branch -d inventory_control
+~~~
+{: .language-bash}
+
+It is safe to use `branch -d`: if Git detects that specified branch has not been merged into another
+branch, it will refuse to delete it.
+To force-delete a local branch, use `branch -D`.
+
+
+## Branches-to-go
+
+There is a way to create and checkout branches in one step:
+
+~~~
+git checkout -b <branch> <start>
+~~~
+{: .language-bash}
+
+In this syntax, `<start>` specifies the hash of the commit where the branch should start -- this is
+where Git will move `HEAD`.
+
+> ## Create -- delete -- repeat. Wait, what?
+>
+> Use `checkout -b` syntax to start a new branch at the commit `d1fbc13` ("Adding 'Staff' section").
+> Change a file and commit it to the branch.
+> Try deleting a branch with `git branch -D`.
+>
+> > ## Solution
+> > ~~~
+> > git checkout -b my-branch d1fbc13
+> > cat >> README.md <<EOS
+> > ## Consultants
+> >
+> > - Bob Slydell
+> > - Bob Porter
+> > EOS
+> > git branch -d my-branch # fail
+> > git branch -D my-branch
+> > ~~~
+> > {: .language-bash}
+> {: .solutions}
+{: .challenge}
+
+
 [git-branching]: https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is
 
 {% include links.md %}
